@@ -1,6 +1,11 @@
+<div align="center">
+ 
 # TQI Fullstack Developer
 
 Atividade desenvolvida no Bootcamp da Dio
+
+![image](https://user-images.githubusercontent.com/105385268/173430469-a75f7b98-5614-408c-8d89-0db2be2395a7.png)
+
 
 ### Tecnologia Utilizada
 - HTML
@@ -28,3 +33,4 @@ Atividade desenvolvida no Bootcamp da Dio
 
 ![Atividade 5 - portfolio](./portfolio.gif)
 
+</div>
